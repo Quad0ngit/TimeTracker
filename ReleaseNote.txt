@@ -1,0 +1,185 @@
+﻿0034907,0035052,0035056,0035064,0035062,0035071,0034898,0034904,0034902,0035070,0034825,0035088,0034894,0034785,0034921,0034922,0034915,0034808,0034812,
+ProjectName :Quadone Time Tracker
+ Date:11/13/2013
+Prepared By :Sairam
+Version: 0.8
+------------------------------------------------------------------------
+Issues that are fixed.
+
+0034894,0034892,0034891,0034886,0034885,0034881,0034821,0034825,0034816,0034762,0034799,0034909,0034910,0034898,0034888
+,0034893,0034785,0034782,0034911,0034913,0034904,0034884,0034924,0034921,0034923,0034922,0034915,0034901,0034865,0034861,
+0034808,0034812,0034813,0034807,0034826,
+------------------------------------------------------------------------
+ProjectName :Quadone Time Tracker
+ Date:11/12/2013
+Prepared By :Sairam
+Version: 0.7
+------------------------------------------------------------------------
+Issues that are fixed.
+
+0034894,0034892,0034891,0034886,0034885,0034881,0034821,0034825,0034816,0034762,0034799,0034909,0034910,0034898,0034888
+,0034893,0034785,0034782,0034911,0034913,0034904,0034884,0034924,0034921,0034923,0034922,0034915,0034901,0034865,0034861,
+0034808,0034812,0034813,0034807,0034826,
+------------------------------------------------------------------------
+ProjectName :Quadone Time Tracker
+ Date:11/08/2013
+Prepared By :Sairam
+
+Version: 0.6
+
+------------------------------------------------------------------------
+Issues that are fixed.
+
+0034807,0034827,0034826,0034825,0034816,0034824,0034823,0034822,0034821,0034819,0034813,0034817,0034814,0034812,0034810,0034808,
+0034804,0034800,0034782,0034799,0034783,0034768,0034767,0034761,0034762,
+
+-------------------------------------------------------------------------
+ProjectName :Quadone Time Tracker
+ Date:11/05/2013
+Prepared By :Sairam
+
+Version: 2.2
+
+------------------------------------------------------------------------
+1.       While creating a project, provide option to add hours for below specified categories 
+	a.Development Hours
+	b.Testing Hours
+	c.Design Hours
+	d.BA Hours
+	e.Project Management Hours
+	f.Others
+
+2.Display current month in select month in “Report by month & year”.
+3.Display List of projects with option to select multiple or ALL Projects in resource wise report.
+4.Display List of projects with option to select multiple or ALL Projects in Category wise report.
+5.Display Project wise Report as specified below
+	a.Category name  Resource name  worked hours
+6.Provide a team lead role with option to view his/her team members timesheets and option to create a new project.
+7.Provide option to add additional hours with task details for the project and display the total hours.       
+8.Display date format in dd-mmm-yyyy (ex- 05 Jul-2013) in all the lists.
+9.Provide estimate upload option for an project with restricted access. Project manager should have option to download the estimate. 
+10.There should be option to close/open the project. 
+11.Display closed and open projects list in two different tabs in the project list. 
+12.Create client and assign projects to the client
+
+
+-------------------------------------------------------------------------
+ProjectName :Quadone Time Tracker
+ Date:08/22/2013
+Prepared By :Balakrishna
+
+Version: 0.2.
+
+------------------------------------------------------------------------
+
+
+Issues that are fixed.
+
+			0032461	
+	 	 	0032450
+	 	 	0032549
+	 	 	0032482
+	 	 	0032516
+	 	 	0032613
+	 	 	0032610
+	 	 	0032548
+	 	 	0032517
+	 	 	0032444
+	 	 	0032441
+	 	 	0032521
+	 	 	0032519
+	 	 	0032449
+	 	 	0032447
+	 	 	0032443
+	 	 	0032442
+	 	 	0032439
+	 	 	0032438
+	 	 	0032474
+	 	 	0032472
+	 	 	0032471
+	 	 	0032465
+	 	 	0032464
+	 	 	0032462
+	 	 	0032457
+	 	 	0032451
+	 	 	0032533
+	 	 	0032532
+	 	 	0032529
+	 	 	0032527
+	 	 	0032525
+	 	 	0032524
+	 	 	0032523
+	 	 	0032520
+			0032518
+			0032515	
+	 	 	0032514	
+	 	 	0032513	
+	 	 	0032512	
+	 	 	0032505	
+	 	 	0032497	
+	 	 	0032495	
+	 	 	0032486	
+	 	 	0032478	
+	 	 	0032477	
+	 	 	0032436	
+	 	 	0032434	
+	 	 	0032433	
+	 	 	0032430	
+	 	 	0032426	
+	 	 	0032421	
+	 	 	0032420
+			0032614
+
+Added feature is:
+
+getting resources report and display date wise worked
+
+
+
+
+
+
+ProjectName :Quadone Time Tracker
+ Date:08/14/2013
+Prepared By :Balakrishna
+
+Version: 0.1.
+
+----------------------------------------
+issues that fixed.
+
+
+1.     Projects reports-->When given continuous digits(improper date format) in date field and submitted able to see crash page.
+
+2.     Date field is not working properly in 'project report' tab, it is fetching the reports irrespective of the dates selected.
+
+3.     Unable to create new user as the page is redirecting to the crash..No user form is displayed, only displaying category tab with buttons 'previous' & 'finish' clicking on finish button is redirecting user to the crash page.
+
+4.     For administrator it is displaying 'log your hours' with project field.
+
+5.     Users list->When clicked on pagination '2' it is displaying crash page.
+
+6.     Clicking on Logo redirecting user to the ‘Quad one’ site.
+
+7.     No proper validations for date fields.
+
+8.     No proper alerts in project creating form: when given special characters no proper alert to intimate what the alert is about, When given continuous digits in date field no proper alert prompt to know.
+
+9.     No user deletion option is provided.
+
+10.    In export of excel wrong duration is displaying(double to the actual duration).
+
+11.    Category report page, Unable to see the message display for no 'records found'
+
+12.    In admin dashboard in time sheet page, No proper validation is happening for date fields, as when given blank date fields and requested for time sheet no alert is prompting for date fields.
+
+13.    Pages designs are not proper.
+ 
+14.    Export file is displaying the data two times.
+
+15.    Mandatory alert for password is not happening when pressing key from keyboard.
+
+
+
+
+

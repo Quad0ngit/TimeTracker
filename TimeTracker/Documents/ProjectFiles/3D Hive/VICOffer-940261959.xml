@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Command>
+  <State>VIC</State>
+  <Targets>
+    <Target ID="5340">
+      <Products>
+        <Product ID="1" ProductName="Test - Birthday Offer" UniquePromotionID="0705105231495" BarcodeFormat="EAN13" ExpiryDuration="1" MobisiteExpiryDuration="1" ImageKey="Test-BirthdayOffer" MobisiteImageKey="Test-BirthdayOffer" CapValue="" OfferRunningDays="Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday" OfferStartTime="00:00" OfferEndTime="23:59" OfferDescription="Test birthday offer " ProductSubBrand="1" DrinkCategory="1" IsPromocodeRequired="False" OfferPromocode="" IsBirthDayOffer="True" BirthdayOfferValidFor="7" IsDeskTop="True" IsMobile="True" />
+        <Product ID="2" ProductName="" UniquePromotionID="" BarcodeFormat="" ExpiryDuration="" MobisiteExpiryDuration="" ImageKey="" MobisiteImageKey="" CapValue="" OfferRunningDays="" OfferStartTime="" OfferEndTime="" OfferDescription="" ProductSubBrand="" DrinkCategory="" IsPromocodeRequired="" OfferPromocode="" IsBirthDayOffer="" BirthdayOfferValidFor="" IsDeskTop="" IsMobile="" />
+        <Product ID="3" ProductName="" UniquePromotionID="" BarcodeFormat="" ExpiryDuration="" MobisiteExpiryDuration="" ImageKey="" MobisiteImageKey="" CapValue="" OfferRunningDays="" OfferStartTime="" OfferEndTime="" OfferDescription="" ProductSubBrand="" DrinkCategory="" IsPromocodeRequired="" OfferPromocode="" IsBirthDayOffer="" BirthdayOfferValidFor="" IsDeskTop="" IsMobile="" />
+      </Products>
+      <searchfilter State="VIC," Status="Active" RegistrationSource="All" Keyword="61400150181," Drink="" Gender="" Suburb="" PostcodeFrom="" PostcodeTo="" SubscribeDateFrom="" SubscribeDateTo="" Store="" Email="" UnsubscribedDateFrom="" UnsubscribedDateTo="" DobFrom="" DobTo="" MobisiteUserFrom="" MobisiteUserTo="" />
+      <offerexpirydate>9/11/2013 5:46:00 PM</offerexpirydate>
+    </Target>
+    <Target ID="5339">
+      <disclaimertext>This is a time bound test</disclaimertext>
+      <Products>
+        <Product ID="1" ProductName="Test - Timebound" UniquePromotionID="0705105231495" BarcodeFormat="EAN13" ExpiryDuration="1" MobisiteExpiryDuration="1" ImageKey="Test-Timebound" MobisiteImageKey="Test-Timebound" CapValue="" OfferRunningDays="Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday" OfferStartTime="11:00" OfferEndTime="12:00" OfferDescription="This is a timebound offer test" ProductSubBrand="1" DrinkCategory="1" IsPromocodeRequired="False" OfferPromocode="" IsBirthDayOffer="False" BirthdayOfferValidFor="" IsDeskTop="True" IsMobile="True" />
+        <Product ID="2" ProductName="" UniquePromotionID="" BarcodeFormat="" ExpiryDuration="" MobisiteExpiryDuration="" ImageKey="" MobisiteImageKey="" CapValue="" OfferRunningDays="" OfferStartTime="" OfferEndTime="" OfferDescription="" ProductSubBrand="" DrinkCategory="" IsPromocodeRequired="" OfferPromocode="" IsBirthDayOffer="" BirthdayOfferValidFor="" IsDeskTop="" IsMobile="" />
+        <Product ID="3" ProductName="" UniquePromotionID="" BarcodeFormat="" ExpiryDuration="" MobisiteExpiryDuration="" ImageKey="" MobisiteImageKey="" CapValue="" OfferRunningDays="" OfferStartTime="" OfferEndTime="" OfferDescription="" ProductSubBrand="" DrinkCategory="" IsPromocodeRequired="" OfferPromocode="" IsBirthDayOffer="" BirthdayOfferValidFor="" IsDeskTop="" IsMobile="" />
+      </Products>
+      <searchfilter State="VIC," Status="Active" RegistrationSource="All" Keyword="61400150181,61400150181," Drink="" Gender="" Suburb="" PostcodeFrom="" PostcodeTo="" SubscribeDateFrom="" SubscribeDateTo="" Store="" Email="" UnsubscribedDateFrom="" UnsubscribedDateTo="" DobFrom="" DobTo="" MobisiteUserFrom="" MobisiteUserTo="" />
+      <offerexpirydate>9/11/2013 5:42:00 PM</offerexpirydate>
+    </Target>
+    <Target ID="5338">
+      <disclaimertext>This is a test </disclaimertext>
+      <Products>
+        <Product ID="1" ProductName="Test - Mobisite Only" UniquePromotionID="0705105231495" BarcodeFormat="EAN13" ExpiryDuration="1" MobisiteExpiryDuration="1" ImageKey="Test-MobisiteOnly" MobisiteImageKey="Test-MobisiteOnly" CapValue="" OfferRunningDays="Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday" OfferStartTime="00:00" OfferEndTime="23:59" OfferDescription="This is a test for the mobisite" ProductSubBrand="1" DrinkCategory="1" IsPromocodeRequired="False" OfferPromocode="" IsBirthDayOffer="False" BirthdayOfferValidFor="" IsDeskTop="True" IsMobile="True" />
+        <Product ID="2" ProductName="" UniquePromotionID="" BarcodeFormat="" ExpiryDuration="" MobisiteExpiryDuration="" ImageKey="" MobisiteImageKey="" CapValue="" OfferRunningDays="" OfferStartTime="" OfferEndTime="" OfferDescription="" ProductSubBrand="" DrinkCategory="" IsPromocodeRequired="" OfferPromocode="" IsBirthDayOffer="" BirthdayOfferValidFor="" IsDeskTop="" IsMobile="" />
+        <Product ID="3" ProductName="" UniquePromotionID="" BarcodeFormat="" ExpiryDuration="" MobisiteExpiryDuration="" ImageKey="" MobisiteImageKey="" CapValue="" OfferRunningDays="" OfferStartTime="" OfferEndTime="" OfferDescription="" ProductSubBrand="" DrinkCategory="" IsPromocodeRequired="" OfferPromocode="" IsBirthDayOffer="" BirthdayOfferValidFor="" IsDeskTop="" IsMobile="" />
+      </Products>
+      <searchfilter State="VIC," Status="Active" RegistrationSource="All" Keyword="61400150181,61400150181,61400150181," Drink="" Gender="" Suburb="" PostcodeFrom="" PostcodeTo="" SubscribeDateFrom="" SubscribeDateTo="" Store="" Email="" UnsubscribedDateFrom="" UnsubscribedDateTo="" DobFrom="" DobTo="" MobisiteUserFrom="" MobisiteUserTo="" />
+      <offerexpirydate>9/12/2013 5:39:00 PM</offerexpirydate>
+    </Target>
+    <Target ID="5337">
+      <disclaimertext>This is a test</disclaimertext>
+      <Products>
+        <Product ID="1" ProductName="Test - Website Only " UniquePromotionID="0705105231495" BarcodeFormat="EAN13" ExpiryDuration="1" MobisiteExpiryDuration="1" ImageKey="Test-WebsiteOnly01" MobisiteImageKey="Test-WebsiteOnly01" CapValue="" OfferRunningDays="Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday" OfferStartTime="00:00" OfferEndTime="23:59" OfferDescription="This is a test " ProductSubBrand="1" DrinkCategory="1" IsPromocodeRequired="False" OfferPromocode="" IsBirthDayOffer="False" BirthdayOfferValidFor="" IsDeskTop="True" IsMobile="False" />
+        <Product ID="2" ProductName="" UniquePromotionID="" BarcodeFormat="" ExpiryDuration="" MobisiteExpiryDuration="" ImageKey="" MobisiteImageKey="" CapValue="" OfferRunningDays="" OfferStartTime="" OfferEndTime="" OfferDescription="" ProductSubBrand="" DrinkCategory="" IsPromocodeRequired="" OfferPromocode="" IsBirthDayOffer="" BirthdayOfferValidFor="" IsDeskTop="" IsMobile="" />
+        <Product ID="3" ProductName="" UniquePromotionID="" BarcodeFormat="" ExpiryDuration="" MobisiteExpiryDuration="" ImageKey="" MobisiteImageKey="" CapValue="" OfferRunningDays="" OfferStartTime="" OfferEndTime="" OfferDescription="" ProductSubBrand="" DrinkCategory="" IsPromocodeRequired="" OfferPromocode="" IsBirthDayOffer="" BirthdayOfferValidFor="" IsDeskTop="" IsMobile="" />
+      </Products>
+      <searchfilter State="VIC," Status="Active" RegistrationSource="All" Keyword="61400150181,61400150181,61400150181,61400150181," Drink="" Gender="" Suburb="" PostcodeFrom="" PostcodeTo="" SubscribeDateFrom="" SubscribeDateTo="" Store="" Email="" UnsubscribedDateFrom="" UnsubscribedDateTo="" DobFrom="" DobTo="" MobisiteUserFrom="" MobisiteUserTo="" />
+      <offerexpirydate>9/11/2013 5:33:00 PM</offerexpirydate>
+    </Target>
+  </Targets>
+</Command>
